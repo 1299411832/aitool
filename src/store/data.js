@@ -1,0 +1,22 @@
+export const defaultTools = [
+  {id:1,name:"ChatGPT",category:"大语言模型",desc:"OpenAI开发的对话大模型，支持文案创作、代码编写、问答推理，多轮对话能力强。",url:"https://chat.openai.com",cover:"https://picsum.photos/id/237/300/200"},
+  {id:2,name:"Claude 3",category:"大语言模型",desc:"Anthropic长文本大模型，支持上传百万字文档阅读总结，上下文窗口巨大。",url:"https://claude.ai",cover:"https://picsum.photos/id/1025/300/200"},
+  {id:3,name:"文心一言",category:"大语言模型",desc:"百度自研大模型，中文理解优秀，支持图文生成、PPT创作、知识库问答。",url:"https://yiyan.baidu.com",cover:"https://picsum.photos/id/1035/300/200"},
+  {id:4,name:"通义千问",category:"大语言模型",desc:"阿里云大模型，中文能力强，支持插件调用、长文档解析、多模态。",url:"https://tongyi.aliyun.com",cover:"https://picsum.photos/id/1040/300/200"},
+  {id:5,name:"豆包",category:"大语言模型",desc:"字节自研大模型，中文对话流畅，支持联网搜索、多模态、智能体。",url:"https://www.doubao.com",cover:"https://picsum.photos/id/1042/300/200"},
+  {id:6,name:"Kimi",category:"大语言模型",desc:"月之暗面大模型，主打超长文本读取，一次性上传多份PDF、电子书。",url:"https://kimi.moonshot.cn",cover:"https://picsum.photos/id/1044/300/200"},
+  {id:7,name:"智谱清言",category:"大语言模型",desc:"智谱AI大模型，支持代码、写作、多模态，可本地部署开源版本。",url:"https://glm.cn",cover:"https://picsum.photos/id/1048/300/200"},
+  {id:8,name:"星火认知大模型",category:"大语言模型",desc:"科大讯飞大模型，语音能力突出，适合语音对话、文档总结。",url:"https://xinghuo.xfyun.cn",cover:"https://picsum.photos/id/1050/300/200"},
+  {id:9,name:"Gemini",category:"大语言模型",desc:"Google多模态大模型，图文音视频理解，推理能力强。",url:"https://gemini.google.com",cover:"https://picsum.photos/id/1052/300/200"},
+  {id:10,name:"Midjourney",category:"AI绘画",desc:"顶级AI艺术绘图工具，插画、写实、科幻风格全能，画质顶尖。",url:"https://www.midjourney.com",cover:"https://picsum.photos/id/96/300/200"},
+  {id:11,name:"Stable Diffusion",category:"AI绘画",desc:"开源免费AI绘画模型，支持本地部署、自定义Lora、模型微调。",url:"https://stability.ai",cover:"https://picsum.photos/id/1003/300/200"},
+  {id:12,name:"Pika Labs",category:"AI视频",desc:"当下最火文生视频工具，动态流畅、画面质感高。",url:"https://pika.art",cover:"https://picsum.photos/id/1065/300/200"},
+  {id:13,name:"Runway",category:"AI视频",desc:"专业AI视频工具，文生视频、视频擦除、画面扩展。",url:"https://runwayml.com",cover:"https://picsum.photos/id/1039/300/200"},
+  {id:14,name:"GitHub Copilot",category:"代码AI",desc:"AI代码自动补全，编程神器，大幅提升开发效率。",url:"https://github.com/copilot",cover:"https://picsum.photos/id/1086/300/200"},
+  {id:15,name:"Cursor",category:"代码AI",desc:"AI原生代码编辑器，重构、查错、解读项目全能。",url:"https://cursor.sh",cover:"https://picsum.photos/id/1087/300/200"},
+  {id:16,name:"WPS AI",category:"办公AI",desc:"文档总结、PPT一键生成、表格智能分析。",url:"https://ai.wps.cn",cover:"https://picsum.photos/id/1097/300/200"},
+  {id:17,name:"Gamma",category:"办公AI",desc:"输入文字一键生成精美PPT、演示文稿。",url:"https://gamma.app",cover:"https://picsum.photos/id/1098/300/200"},
+  {id:18,name:"Perplexity",category:"搜索AI",desc:"实时联网AI搜索，精准资讯、实时信息检索。",url:"https://www.perplexity.ai",cover:"https://picsum.photos/id/1109/300/200"},
+  {id:19,name:"ElevenLabs",category:"AI音频",desc:"全球最自然AI人声合成，情绪丰富、音色逼真。",url:"https://elevenlabs.io",cover:"https://picsum.photos/id/1076/300/200"},
+  {id:20,name:"Suno AI",category:"AI音频",desc:"AI一键生成原创歌曲、歌词作曲编曲全部搞定。",url:"https://suno.com",cover:"https://picsum.photos/id/1079/300/200"}
+]
